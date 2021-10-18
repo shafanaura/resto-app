@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![porto_food](https://user-images.githubusercontent.com/48083931/137660828-4b3bb1e0-507e-4b1b-9441-3677a914096c.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
